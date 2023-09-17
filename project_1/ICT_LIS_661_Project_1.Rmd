@@ -42,35 +42,37 @@ Before moving on, please make a copy of this file and rename it in a way that ma
 > For this project, you will need to identify a dataset with at least 100 observations and 5 variables. A dataset with at least 1,000 observations and 10 variables would be even better—but not necessary. This does not need to be a publicly available dataset, but please ensure that you can use the dataset legally and ethically. Store the data somewhere in your GitHub repository for this class.
 
 > Tell me some about this dataset. Does it have a title? If not, what title would you give it? What reference or citation information (including a public URL, if applicable) can you provide about the dataset? Who created the dataset and when? How did they create it? [2 points]
+The dataset I choose is "Social Media Influencers in 2022
+Top 1000 social media influencers from Instagram,youtube and tiktok each in 2022 https://www.kaggle.com/datasets/ramjasmaurya/top-1000-social-media-channels Ram Jas is the owner of the dataset and it was created in 2022 and they created it by a process called "scraping using scrappy"
 
-
-
-> What is your interest in this dataset? In general terms, what would you like to know that could be answered with this data? Make sure that at least one thing you're curious about is *causal* in nature: That is, it's about a cause-effect relationship. [1 point]
-
-
+> What is your interest in this dataset? In general terms, what would you like to know that could be answered with this data? Make sure that at least one thing you're curious about is *causal* in nature: It's about a cause-effect relationship. [1 point]
+Gaining followers and becoming a social media influencer is vital for several reasons. It helps you connect with a specific group of people who share your interests. As an influencer, you can promote products and gain revenue from businesses. This data would help me to understand better what brands are looking for in terms of following and content to perfect my content creation on my pages.
 
 # Project 1, Part 2: Reflect on Data Science [2 points]
 
 > Think back to what we learned about in Module 2 of class. How does your dataset relate to the phenomena of data science and big data? For example, is this the kind of data that was easily collected and readily available 50 years ago? Or is there something "new and shiny" about this data? [2 points]
 
+My dataset on the top 1000 social media influencers from Instagram, YouTube, and TikTok in 2022 showcases the evolution of data science and big data in our digital age. Unlike 50 years ago, today's digital era enables easy access to vast and varied data. This dataset includes follower counts, engagement data, and more, reflecting more modern data. My dataset displays big data's "new and improved" aspects, showing how digital platforms have revolutionized data collection, analysis, and understanding of contemporary trends.
 
 # Project 1, Part 3: Reflect on Data Privacy and Ethics [2 points]
 
 > As we discussed in Module 3, data scientists typically assume that the world works in consistent, predictable ways and that the point of data science is to figure out how the world works so that we can get the outcomes we want. There's nothing inherently wrong with these assumptions—they have served us well over the past couple of centuries, and they continue to do so today. However, it's important to consider their limitations. Think about your dataset and your research questions; are there ways that what you're interested in doesn't quite fit the data science view of the world as consistent and predictable? [1 point]
 
+Data science aims to understand data and make predictions, but when it comes to social media influencers, many unpredictable things happen. People's behavior, cultural trends, and changes in social media platforms can be hard to foresee. This unpredictability makes it tough to have a complete and certain data science approach. However, it also makes studying influencers and social media really interesting and always changing in the world of data science.
 
 
 > There's a lot of good that can be done with data—and a lot of bad that can be done with data. Think about your dataset and research questions. What kind of good could you do by analyzing those data? Is there any harm that a bad actor could do with those data? Are there ways that even well-meaning data scientists could accidentally do harm with those data? [1 point]
 
-
+Studying the top 1000 social media influencers in 2022 can help brands work better with them and improve content. But there are risks. If handled wrong, it could invade privacy, spread false info, or even lead to trouble for influencers. Even good-hearted data scientists might accidentally make mistakes. They could accidentally show favoritism or not keep info safe. So, it's important to be careful. We need to handle this info respectfully, ensuring it stays private and secure. Talking openly and following rules can help us study this data in a way that helps influencers and keeps everyone safe from problems.
 
 # Project 1, Part 4: Reflect on Open Data [3 points]
 
-> Tell me about where you got your data from. How easy was it to find data that was of interest to you? What other kind of data did you find while looking for a dataset for this project? Could you have collected this data on your own if someone else hadn't done the work first? [1 point]
-
+> Tell me about where you got your data from. How easy was it to find data that was of interest to you? What other kind of data did you find while looking for a dataset for this project? Could you have collected this data alone if someone else hadn't done the work first? [1 point]
+As a content creator, social media and influencers are of great interest to me. I discovered the dataset on Kaggle, a platform for data sharing and analysis. Finding this specific dataset was relatively easy because I knew precisely what I wanted. I focused only on the top 1000 social media influencers in 2022 and didn't explore other datasets during this project. Collecting this data on my own would have been extremely challenging and time-consuming, considering the amount of information needed and the difficulties of tracking and ranking influencers across multiple platforms. So, I greatly benefited from the work done by others in compiling and sharing this dataset on Kaggle.
 
 > Sharing data is easy, but it's also easy to lose track of important information and context along the way. How much do you feel like you know about your dataset? Do you understand what all the variables mean? Do you know how it was collected?  [2 points]
 
+I know the dataset is about the top 1000 social media influencers in 2022, but I only have a basic understanding of it. To understand it better, I need to dig deeper. Right now, I don't know what all the different things in the dataset mean, and I'm unsure how the researcher gathered all this information. To better handle things, I plan to take a closer look at the dataset files and any explanations the researcher has provided. That way, I can figure out what the different parts of the dataset mean and how they got the data in the first place.
 
 
 # Submitting Project 1
